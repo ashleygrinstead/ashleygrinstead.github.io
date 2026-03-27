@@ -23,7 +23,7 @@ repository               : "ashleygrinstead/ashleygrinstead.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.JPG"
   name             : "Ashley Grinstead"
   pronouns         : "she/her"  
   bio              : "Remote Sensing, Evapotranspiration, and Marsh Resilience"
