@@ -11,14 +11,14 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/     
+  # - title: "Publications"
+  #   url: /publications/     
     
   - title: "CV"
     url: /cv/
     
-  - title: "Contact"
-    url: /Ctntact/
+  # - title: "Contact"
+  #   url: /Contact/
     
   # - title: "CV"
   #   url: /cv-json/

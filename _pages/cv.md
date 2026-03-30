@@ -9,7 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+{% capture written_label %}'None'{% endcapture %}
+
+If the embedded PDF below does not load, you can <u><a href="https://ashleygrinstead.com/files/Grinstead_CV.pdf">download it here.</a></u>
+<br/>
+
+<iframe src="https://ashleygrinstead.com/files/Grinstead_CV.pdf" width="100%" height="1000px" frameborder="0">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="https://ashleygrinstead.com/files/Grinstead_CV.pdf">Download PDF</a>
+</iframe>
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
