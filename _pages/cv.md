@@ -11,11 +11,11 @@ redirect_from:
 
 {% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can <u><a href="https://ashleygrinstead.com/files/Grinstead_CV.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can <u><a href="https://ashleygrinstead.github.io/files/Grinstead_CV.pdf">download it here.</a></u>
 <br/>
 
-<iframe src="https://ashleygrinstead.com/files/Grinstead_CV.pdf" width="100%" height="1000px" frameborder="0">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="https://ashleygrinstead.com/files/Grinstead_CV.pdf">Download PDF</a>
+<iframe src="https://ashleygrinstead.github.io/files/Grinstead_CV.pdf" width="100%" height="1000px" frameborder="0">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="https://ashleygrinstead.github.io/files/Grinstead_CV.pdf">Download PDF</a>
 </iframe>
 
 <!-- Education
